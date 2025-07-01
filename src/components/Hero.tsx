@@ -32,7 +32,7 @@ const Hero = () => {
 
           {/* Heading */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            <span className="bg-gradient-to-r from-blue-500 via-purple-900 to-pink-800 bg-clip-text text-transparent">
+            <span className="bg-gradient-to-r from-blue-500 via-white-900 to-pink-800 bg-clip-text text-transparent">
               Building Tomorrow's
             </span>
             <br />
