@@ -16,7 +16,7 @@ const Hero = () => {
       <div className="absolute inset-0 z-0">
         <Spline scene="https://prod.spline.design/NsupAHy5JSPzOZR9/scene.splinecode" />
         
-        <div className="absolute inset-0 bg-gradient-to-tr from-black via-black/40 to-black via-black/80" />
+        <div className="absolute inset-0 bg-gradient-to-tr from-black via-black/30 to-black via-black/60" />
       </div>
 
       {/* ✅ Foreground Content */}
